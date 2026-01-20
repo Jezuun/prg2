@@ -15,7 +15,9 @@ public class Main {
 
     System.out.println("Total number of accounts created : " + account.getNumberOfAccounts());
 
+    System.out.println(acc1.equals(acc2));
     }
 
 }
+
 
